@@ -12,9 +12,9 @@ Ce dépôt retrace étape par étape les défis réalisés (VSC1, UNIX, JCL, COB
 
 | 🎓 Challenge             | 📌 Statut   | 📅 Date       | 🔗 Lien                  |
 |--------------------------|------------|---------------|---------------------------|
-| VSC1 – Setup & VSCode    | ✅ Terminé | 28/07/2025    | [→ Dossier](./VSC1/)      |
-| FILES1 – Data Sets       | ✅ Terminé | 28/07/2025    | [→ Dossier](./FILES1/)      |
-| JCL1 – Jobs & JCL        | ⬜ À faire | —             | —                         |
+| VSC1 – Setup & VSCode    | ✅ Terminé | 28/07/2025 | [→ Dossier](./VSC1/) |
+| FILES1 – Data Sets       | ✅ Terminé | 28/07/2025 | [→ Dossier](./FILES1/) |
+| JCL1 – Jobs & JCL        | ✅ Terminé | 30/07/2025 | [→ Dossier](./JCL1/) |
 
 ## ✍️ Me contacter
 
